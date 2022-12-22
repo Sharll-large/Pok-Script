@@ -28,10 +28,6 @@ fns = {
         "take_args": 0,
         "locate": base.Input
     },
-    "randint":{
-        "take_args": 2,
-        "locate": base.Randint
-    },
     "int":{
         "take_args": 1,
         "locate": base.toInt
