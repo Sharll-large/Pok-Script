@@ -14,4 +14,8 @@ There are also numbers in pok script:
 
 `print + 2 3.0`
 
-+ is a function takes 2 arguments, and add them.
++ is a function takes 2 arguments, and add them. Return result.
+
+`print + 2 3`
+
+This program can output 5
